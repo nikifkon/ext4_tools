@@ -1,0 +1,6 @@
+Inode: 12   Type: regular    Mode:  0777   Flags: 0x10000000
+User:  0   Group:  0   Size: 7
+ctime: 0x63872234 -- 2022-11-30 14:28:20
+atime: 0x63872234 -- 2022-11-30 14:28:20
+mtime: 0x63872234 -- 2022-11-30 14:28:20
+Inode checksum: 0x0000260f

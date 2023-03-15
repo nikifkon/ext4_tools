@@ -1,0 +1,8 @@
+Inode: 19   Type: directory    Mode:  0755   Flags: 0x80000
+User:  1000   Group:  1001   Size: 1024
+ctime: 0x63351904 -- 2022-09-29 09:03:16
+atime: 0x63351905 -- 2022-09-29 09:03:17
+mtime: 0x63351904 -- 2022-09-29 09:03:16
+Inode checksum: 0x0000a06c
+Logical block         Physical blocks
+0-1                 : 1369-1370

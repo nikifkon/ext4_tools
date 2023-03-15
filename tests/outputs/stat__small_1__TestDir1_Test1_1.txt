@@ -1,0 +1,8 @@
+Inode: 17   Type: regular    Mode:  0644   Flags: 0x80000
+User:  1000   Group:  1001   Size: 20
+ctime: 0x633518e3 -- 2022-09-29 09:02:43
+atime: 0x633518e3 -- 2022-09-29 09:02:43
+mtime: 0x633518e3 -- 2022-09-29 09:02:43
+Inode checksum: 0x00009457
+Logical block         Physical blocks
+0-1                 : 1367-1368
